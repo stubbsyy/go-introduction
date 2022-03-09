@@ -1,7 +1,13 @@
-# go-introduction
 
-As of March 1st, 2022 there is nothing here yet but a skeleton repo. I will be updating as I begin to learn and post my videos to YouTube. 
+<h1>Get GOing</h1>
+<img src="https://dwglogo.com/wp-content/uploads/2017/08/Golang-logo-001.svg" width=40%>
 
-This is the start of my Go learning experience. I will try to document as much as I can during this process. 
+<h3>Video One</h3>
 
-I am new to Go and figured if I can learn and then eventually teach it then I might be off to a good start. 
+Useful Links:
+<br>
+<a href="https://youtu.be/mhbCyVzsSNw">YouTube Link</a>
+<br>
+<a href="https://pkg.go.dev/">Package Information</a>
+<br>
+<a href="https://qvault.io/golang/what-is-go-good-for-golang/">What is GO good for</a>
