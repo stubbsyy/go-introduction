@@ -1,5 +1,5 @@
 
-<h1>Get GOing</h1>
+<h1>GO Stubbs GO</h1>
 <img src="https://dwglogo.com/wp-content/uploads/2017/08/Golang-logo-001.svg" width=40%>
 
 <h3>Video One</h3>
